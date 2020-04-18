@@ -15,6 +15,7 @@ h1 {
   margin: 0 auto 0 auto;
   font-family: 'Philosopher', sans-serif;
   font-size: 75px;
+  color: black;
 }
 
 h2 {
@@ -38,21 +39,25 @@ h3 {
 
 .top-para {
   font-size: 25px;
+  color: #40514e;
 }
 
 .first-para {
   padding-bottom: 100px;
   line-height: 2;
+  color: #40514e;
 }
 
 .second-para {
   padding-bottom: 100px;
   line-height: 2;
+  color: #40514e;
 }
 
 .third-para {
   padding-bottom: 50px;
   line-height: 2;
+  color: #40514e;
 }
 
 .top-container {
@@ -105,9 +110,9 @@ h3 {
 .dj-party {
     padding-top: 0;
     margin: 30px;
-    width: 200px;
-    height: 175px;
-    float: left;
+    width: 250px;
+    height: 165px;
+    float: right;
 }
 
 .sound-record {
